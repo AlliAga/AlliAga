@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alli Aga</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center"> 👋 Hi, I'm Alli Aga</h1>
+<h3 align="center">Developing skills to become full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alliaga&label=Profile%20views&color=0e75b6&style=flat" alt="alliaga" /> </p>
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alli aga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alli aga" height="30" width="40" /></a>
-<a href="https://fb.com/alli aga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alli aga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alli-aga-00b2ab1a0?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alli-aga-00b2ab1a0?trk=people-guest_people_search-card" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100009824445526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009824445526" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._a_g_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._a_g_a_" height="30" width="40" /></a>
 </p>
 
