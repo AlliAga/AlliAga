@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **saifaga800@gmail.com**
 
-[![Alli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlliAga&theme=chartreuse-dark&bg_color=0d1117&hide_border=true)](https://github.com/AlliAga/github-readme-stats)
+[![Alli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlliAga&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/AlliAga/github-readme-stats)
 
 [![Alli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlliAga&theme=chartreuse-dark&hide_border=true&background=0d1117)](https://github.com/AlliAga/github-readme-streak-stats)
 
