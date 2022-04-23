@@ -44,8 +44,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alli-aga-00b2ab1a0?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alli-aga-00b2ab1a0?trk=people-guest_people_search-card" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009824445526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009824445526" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alli-aga-00b2ab1a0?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="alli-aga-00b2ab1a0?trk=people-guest_people_search-card" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100009824445526" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="profile.php?id=100009824445526" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._a_g_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._a_g_a_" height="30" width="40" /></a>
-<a href="https://discord.gg/fdUQsUP7FJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fdUQsUP7FJ" height="30" width="40" /></a>
+<a href="https://discord.gg/fdUQsUP7FJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="fdUQsUP7FJ" height="30" width="40" /></a>
 </p>
