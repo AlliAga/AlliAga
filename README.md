@@ -1,3 +1,4 @@
+[![@alliaga's Holopin board](https://holopin.me/alliaga)](https://holopin.io/@alliaga)
 <h1 align="center"> 👋 <strong>Hi, I'm Alli Aga</strong></h1>
 <h3 align="center">Developing skills to become full-stack developer</h3>
 
