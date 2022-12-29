@@ -21,7 +21,7 @@
 
 ## 📊 **Activity Graph**
 
-[![Alli's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlliAga&bg_color=0d1117&color=62c637&line=08ff00&point=fff&area=true&hide_border=true)](https://github.com/AlliAga/github-readme-activity-graph)
+[![Alli's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlliAga&bg_color=0d1117&color=62c637&line=08ff00&point=fff&area=true&hide_border=true)](https://github.com/AlliAga/github-readme-activity-graph)
 
 ## 💻 **Tech Stack**
 
