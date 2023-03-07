@@ -1,4 +1,9 @@
 [![@alliaga's Holopin board](https://holopin.me/alliaga)](https://holopin.io/@alliaga)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center"> 👋 <strong>Hi, I'm Alli Aga</strong></h1>
 <h3 align="center">Developing skills to become full-stack developer</h3>
 
@@ -30,3 +35,5 @@
 ## 🌐 **Connect with me**
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/fdUQsUP7FJ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/profile.php?id=100009824445526) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._a_g_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alli-aga-00b2ab1a0?trk=people-guest_people_search-card)
+
+
